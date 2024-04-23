@@ -94,7 +94,7 @@ dependencies {
     implementation "com.google.android.material:material:$androidxMaterial"
     implementation "androidx.cardview:cardview:1.0.0"
 
-    implementation 'commons-io:commons-io:2.11.0'
+    implementation 'commons-io:commons-io:2.16.1'
 
     // lifecycle
     implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"
