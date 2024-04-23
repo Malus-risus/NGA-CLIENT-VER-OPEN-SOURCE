@@ -38,7 +38,7 @@ project.ext {
     fastJson = '2.0.49'
     rxAndroid = '2.1.1'
 
-    lifecycle_version = "2.2.0"
+    lifecycle_version = "2.7.0"
 
     androidxAppcompat = '1.2.0-alpha03'
     androidxMaterial = '1.2.0'
